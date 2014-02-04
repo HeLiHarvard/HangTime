@@ -1,6 +1,1 @@
-HangTime
-========
-I love 
-pussy money weed
-luciano is cool
-
+VimCrypt~01!}ÞÉPäÃ“â	>­½™*ž»Š
