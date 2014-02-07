@@ -1,6 +1,5 @@
 HangTime
 ========
-I love 
-pussy money weed
+stuff
 luciano is cool
 
