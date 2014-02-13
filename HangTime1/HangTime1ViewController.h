@@ -11,4 +11,10 @@
 
 @interface HangTime1ViewController : UIViewController
 
+@property (nonatomic, retain) IBOutlet UILabel *labelresult;
+@property (nonatomic, retain) IBOutlet UITextField *username;
+@property (nonatomic, retain) IBOutlet UIButton *buttonSubmit;
+
+- (IBAction)loginuser;
+
 @end

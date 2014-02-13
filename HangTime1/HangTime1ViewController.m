@@ -15,10 +15,26 @@
 
 @implementation HangTime1ViewController
 
+@synthesize  labelresult;
+@synthesize username;
+@synthesize buttonSubmit;
+
+
+
+- (IBAction)loginuser {
+    NSLog((username));
+    
+}
+
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+   
+    //NSLog(aLabel.text);
+
     PFUser *user = [PFUser user];
     user.username = @"my name";
     user.password = @"my pass";
